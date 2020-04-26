@@ -1,6 +1,6 @@
 <?php
 
-namespace Vkiranmaniya\SSLForFree;
+namespace Vkiran\SSLForFree;
 
 use Illuminate\Support\ServiceProvider;
 

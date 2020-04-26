@@ -174,7 +174,7 @@ return [
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
-        \Vkiranmaniya\SSLForFree\SSLForFreeServiceProvider::class,
+        \Vkiran\SSLForFree\SSLForFreeServiceProvider::class,
     ],
 
     /*

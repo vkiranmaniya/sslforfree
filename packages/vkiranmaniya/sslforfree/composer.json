@@ -1,5 +1,5 @@
 {
-    "name": "vkiranmaniya/sslforfree",
+    "name": "vkiran/sslforfree",
     "description": "Lightweight library that helps installing SSL certificate in laravel application from SSLForFree",
     "type": "library",
     "license": "MIT",
