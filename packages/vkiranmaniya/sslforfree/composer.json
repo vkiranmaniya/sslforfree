@@ -1,0 +1,14 @@
+{
+    "name": "vkiranmaniya/sslforfree",
+    "description": "Lightweight library that helps installing SSL certificate in laravel application from SSLForFree",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kiran Maniya",
+            "email": "vkiranmaniya@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
